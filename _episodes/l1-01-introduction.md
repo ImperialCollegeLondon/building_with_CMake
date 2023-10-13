@@ -11,13 +11,13 @@ objectives:
 - "Understand what buildsystems can and can't achieve"
 - "Describe various buildsystems, and their relative strengths"
 keypoints:
-- "Buildsystems like CMake are the gold standard for compiling software projects"
 - "Large and complex codebases require a long and repetitive series of commands to build"
 - "Manual building quickly becomes unfeasible as the codebase grows"
 - "Buildsystems ensure that our software is built correctly and reliably every time"
 - "Allows us to consistently compile programs accross platforms and compilation toolsets"
 - "Allows builds to be easily optimised for a given architecture using compiler flags"
 - "Buildsystems may be extended with testing and deployment functionality"
+- "Buildsystems like CMake are the gold standard for compiling professional software projects"
 ---
 
 ## Why Use Buildsystems?

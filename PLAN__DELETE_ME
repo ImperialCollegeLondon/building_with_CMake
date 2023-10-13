@@ -1,0 +1,25 @@
+
+SECTION 1 -- intro to buildsystems
+=========
+
+* Talk about compiling by hand small programs, but quickly becomes unweildy with more files/code -- forget commands, ordering, options, etcetera
+
+
+* Talk about making cross-platform support easy with buildsystems
+
+
+* Talk about easily altering our builds (using options) -- like optimisations or optional extras, etcetera
+
+
+* Talk about the possibility of extending buildsystems to do testing/deployment
+
+
+* General intro to the various buildsystems out there, and their relative strengths -- this course will focus on CMake
+
+
+SECTION 2 -- intro to CMake
+=========
+
+* A very general introduction to CMake
+
+* A very simple CMake build compared to manual commands
