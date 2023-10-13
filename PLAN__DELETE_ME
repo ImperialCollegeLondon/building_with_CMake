@@ -55,6 +55,8 @@ SECTION 4 -- project structure
 SECTION ???
 ===========
 
+* A real-life example
+
 * Testing with CTest
 
 * Pulling in dependencies with vcpkg
