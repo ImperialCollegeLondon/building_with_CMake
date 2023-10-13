@@ -23,3 +23,38 @@ SECTION 2 -- intro to CMake
 * A very general introduction to CMake
 
 * A very simple CMake build compared to manual commands
+
+
+SECTION 3 -- customising builds
+=========
+
+* Build flags
+
+* Compiler toolsets
+
+* optional extras
+
+* Debug and release builds
+
+* Compiling binaries and libraries
+
+
+SECTION 4 -- project structure
+=========
+
+* Complicated source trees
+
+* Recursive CMake
+
+* In-cource and out-of-source builds
+
+
+
+
+
+SECTION ???
+===========
+
+* Testing with CTest
+
+* Pulling in dependencies with vcpkg
